@@ -10,7 +10,8 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 * 🖥️  See my portfolio at [My Public Tableau Page](http://rb.gy/appacu)
 * ✉️  You can contact me at [www.linkedin.com/in/oliviau](mailto:www.linkedin.com/in/oliviau)
 
-[Uploading Olives Cat Gif.zip…]()
+
+![Untitled design](https://github.com/oliviasportfolio/oliviasportfolio/assets/30008823/8d6d12e1-24f8-4a4c-a4a1-b6dd1cb324b7)
 
 
 <!--
