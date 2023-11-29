@@ -11,16 +11,16 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 ###### Hong Kong City University: B.S. International Business
 ###### Oregon State University: B.S Finance, B.S Marketing
 
-###### Skills		
+##### Skills		
 People & Financial Analytics, Automation, Data Visualization & Validation 
 
-###### Systems 
+##### Systems 
 Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
 
-###### Support 
+##### Support 
 HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
 
-###### Reporting 
+##### Reporting 
 Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
 
 ### Experience
