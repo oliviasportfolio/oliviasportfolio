@@ -43,7 +43,7 @@ Accounting Specialist I & II
 * Top High-Five receiver 2021
 * Vectra Visual All-Star Award 2018 
 * 1 of 8 that received 3 degrees in OSU’s 2013 graduating class of 5,221
-* 
+
 #### Education
 * Portland State Univeresity: Business Intelligence and Analytics Certification
 * Hong Kong City University: B.S. International Business
