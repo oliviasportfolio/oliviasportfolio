@@ -22,22 +22,20 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 ### Experience
 
 ##### NIKE	 
-Lead Data Analyst II | People Data Compliance & Reporting 		        Jun 2023 – Present
+Jun 2023 – Present  Lead Data Analyst II | People Data Compliance & Reporting 		       
+ 
+Jan 2020 – Jun 2023 Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                                    
 
-##### NIKE	 
-Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                    Jan 2020 – Jun 2023                
-
-##### NIKE	
-Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		      Jan 2022 – Dec 2022
+Jan 2022 – Dec 2022 Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		    
 
 ##### LEATHERMAN	 
-Data Analyst | Finance & Cost Accounting		     Mar 2018 – Jan 2020
+Mar 2018 – Jan 2020 Data Analyst | Finance & Cost Accounting		     
 
 ##### PHOTOCRAFT	
-Cost Accountant I & II					     Sep 2016 – Mar 2018
+Sep 2016 – Mar 2018 Cost Accountant I & II					     
 
 ##### FREELIN-WADE	
-Accounting Specialist I & II 		                               Mar 2015 – Sep 2016
+Mar 2015 – Sep 2016 Accounting Specialist I & II 		                               
 
 ##### RECOGNITION 
 * Nike’s top ServiceNow Ticket Closer 2023
