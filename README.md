@@ -12,8 +12,11 @@ Oregon State University: B.S Finance, B.S Marketing
 
 ### Experience
 SKILLS		People & Financial Analytics, Automation, Data Visualization & Validation 
+
 SYSTEMS 	Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
+
 SUPPORT 	HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
+
 REPORTING	Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
 
 ##### NIKE	 Lead Data Analyst II | People Data Compliance & Reporting 		        Jun 2023 – Present
