@@ -25,21 +25,23 @@ Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
 
 ### Experience
 
-##### NIKE	 
-Jun 2023 – Present  Lead Data Analyst II | People Data Compliance & Reporting 		       
- 
-Jan 2020 – Jun 2023 Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                                    
+##### NIKE	 6.23 - Present
+Lead Data Analyst II | People Data Compliance & Reporting 		 
+      
+##### NIKE	 1.20 - 6.23
+Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                                    
 
-Jan 2022 – Dec 2022 Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		    
+##### NIKE	 1.20 - 6.23
+Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		    
 
-##### LEATHERMAN	 
-Mar 2018 – Jan 2020 Data Analyst | Finance & Cost Accounting		     
+##### LEATHERMAN 3.18 - 1.20	 
+Data Analyst | Finance & Cost Accounting		     
 
-##### PHOTOCRAFT	
-Sep 2016 – Mar 2018 Cost Accountant I & II					     
+##### PHOTOCRAFT	9.16 - 3.18
+Cost Accountant I & II					     
 
-##### FREELIN-WADE	
-Mar 2015 – Sep 2016 Accounting Specialist I & II 		                               
+##### FREELIN-WADE	3.15 - 9.16
+Accounting Specialist I & II 		                               
 
 ##### RECOGNITION 
 * Nike’s top ServiceNow Ticket Closer 2023
