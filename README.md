@@ -10,15 +10,19 @@ Portland State Univeresity: Business Intelligence and Analytics Certification
 Hong Kong City University: B.S. International Business 
 Oregon State University: B.S Finance, B.S Marketing
 
+##### SKILLS		
+People & Financial Analytics, Automation, Data Visualization & Validation 
+
+##### SYSTEMS 	
+Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
+
+##### SUPPORT 	
+HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
+
+##### REPORTING	
+Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
+
 ### Experience
-SKILLS		People & Financial Analytics, Automation, Data Visualization & Validation 
-
-SYSTEMS 	Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
-
-SUPPORT 	HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
-
-REPORTING	Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
-
 ##### NIKE	 Lead Data Analyst II | People Data Compliance & Reporting 		        Jun 2023 – Present
 As a strategic thought partner for Workday Transformation, I developed and documented sustainable integration solutions that impact 11+ business units and led cutover activities for new standards. While delivering the work, I met sprint deadlines, ad hoc SLA’s, and adhered to industry best practices, compliance, and change management standards. 
 
