@@ -11,11 +11,10 @@ Hong Kong City University: B.S. International Business
 Oregon State University: B.S Finance, B.S Marketing
 
 ### Experience
-
-##### SKILLS		People & Financial Analytics, Automation, Data Visualization & Validation 
-##### SYSTEMS 	Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
-##### SUPPORT 	HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
-##### REPORTING	Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
+SKILLS		People & Financial Analytics, Automation, Data Visualization & Validation 
+SYSTEMS 	Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
+SUPPORT 	HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
+REPORTING	Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
 
 ###### NIKE	 Lead Data Analyst II | People Data Compliance & Reporting 		        Jun 2023 – Present
 As a strategic thought partner for Workday Transformation, I developed and documented sustainable integration solutions that impact 11+ business units and led cutover activities for new standards. While delivering the work, I met sprint deadlines, ad hoc SLA’s, and adhered to industry best practices, compliance, and change management standards. 
@@ -57,14 +56,19 @@ I pioneered Photocraft’s internal audit process, analyzed P/L statement gaps, 
 *	Standardized pricing process that factors in inventory valuation and customer relationships. 
 *	Identified and evaluated root causes of inventory and cost variances, and automated month-end reports with Excel VBA.
 
-###### RECOGNITION 	Nike’s top ServiceNow Ticket Closer 2023, top High-Five receiver 2021
- 	        Vectra Visual All-Star Award 2018 
- 		1 of 8 that received 3 degrees in OSU’s 2013 graduating class of 5,221
-###### COURSES	Meta Database Engineer, Harvard CS50 Introduction to Computer Science, CMA Financial Decision Making 
+###### RECOGNITION 
+* Nike’s top ServiceNow Ticket Closer 2023
+* Top High-Five receiver 2021
+* Vectra Visual All-Star Award 2018 
+* 1 of 8 that received 3 degrees in OSU’s 2013 graduating class of 5,221
+###### COURSES	
+* Meta Database Engineer
+* Harvard CS50 Introduction to Computer Science
+* CMA Financial Decision Making 
  
 ###### VOLUNTEER 	Dao & Doan Foundation – Treasurer 2020 – Present
- 		Grow funds through high probability option trading and statistic-based hedging strategies
- 		Perform risk analysis, minimizing loss and maximizing return on capital	    
+* Grow funds through high probability option trading and statistic-based hedging strategies
+* Perform risk analysis, minimizing loss and maximizing return on capital	    
 
 ![Olives Cat Gif Small](https://github.com/oliviasportfolio/oliviasportfolio/assets/30008823/f44db085-717b-4802-a707-b4d6c374255f)
 
