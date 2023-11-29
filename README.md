@@ -50,19 +50,19 @@ I pioneered Photocraft’s internal audit process, analyzed P/L statement gaps, 
 *	Identified and evaluated root causes of inventory and cost variances, and automated month-end reports with Excel VBA.
 
 ##### RECOGNITION 
-##### * Nike’s top ServiceNow Ticket Closer 2023
-##### * Top High-Five receiver 2021
-##### * Vectra Visual All-Star Award 2018 
-##### * 1 of 8 that received 3 degrees in OSU’s 2013 graduating class of 5,221
+###### * Nike’s top ServiceNow Ticket Closer 2023
+###### * Top High-Five receiver 2021
+###### * Vectra Visual All-Star Award 2018 
+###### * 1 of 8 that received 3 degrees in OSU’s 2013 graduating class of 5,221
 
 ##### COURSES	
-##### * Meta Database Engineer
-##### * Harvard CS50 Introduction to Computer Science
-##### * CMA Financial Decision Making 
+###### * Meta Database Engineer
+###### * Harvard CS50 Introduction to Computer Science
+###### * CMA Financial Decision Making 
  
 ##### VOLUNTEER 	Dao & Doan Foundation – Treasurer 2020 – Present
-##### * Grow funds through high probability option trading and statistic-based hedging strategies
-##### * Perform risk analysis, minimizing loss and maximizing return on capital	    
+###### * Grow funds through high probability option trading and statistic-based hedging strategies
+###### * Perform risk analysis, minimizing loss and maximizing return on capital	    
 
 ![Olives Cat Gif Small](https://github.com/oliviasportfolio/oliviasportfolio/assets/30008823/f44db085-717b-4802-a707-b4d6c374255f)
 
