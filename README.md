@@ -11,31 +11,33 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 ###### Hong Kong City University: B.S. International Business
 ###### Oregon State University: B.S Finance, B.S Marketing
 
-##### SKILLS		
-###### People & Financial Analytics, Automation, Data Visualization & Validation 
+###### SKILLS		People & Financial Analytics, Automation, Data Visualization & Validation 
 
-##### SYSTEMS 
-###### Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
+###### SYSTEMS Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
 
-##### SUPPORT 	
-###### HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
+###### SUPPORT HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
 
-##### REPORTING	
-###### Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
+###### REPORTING Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
 
 ### Experience
 
-##### NIKE	 Lead Data Analyst II | People Data Compliance & Reporting 		        Jun 2023 – Present
+##### NIKE	 
+Lead Data Analyst II | People Data Compliance & Reporting 		        Jun 2023 – Present
 
-##### NIKE	 Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                    Jan 2020 – Jun 2023                
+##### NIKE	 
+Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                    Jan 2020 – Jun 2023                
 
-##### NIKE	Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		      Jan 2022 – Dec 2022
+##### NIKE	
+Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		      Jan 2022 – Dec 2022
 
-##### LEATHERMAN	 Data Analyst | Finance & Cost Accounting		     Mar 2018 – Jan 2020
+##### LEATHERMAN	 
+Data Analyst | Finance & Cost Accounting		     Mar 2018 – Jan 2020
 
-##### PHOTOCRAFT	Cost Accountant I & II					     Sep 2016 – Mar 2018
+##### PHOTOCRAFT	
+Cost Accountant I & II					     Sep 2016 – Mar 2018
 
-##### FREELIN-WADE	Accounting Specialist I & II 		                               Mar 2015 – Sep 2016
+##### FREELIN-WADE	
+Accounting Specialist I & II 		                               Mar 2015 – Sep 2016
 
 ##### RECOGNITION 
 * Nike’s top ServiceNow Ticket Closer 2023
