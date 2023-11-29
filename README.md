@@ -2,18 +2,20 @@
 
 ### About me 
 I orchestrate end-to-end analytics projects that inspire strategy and decision-making and serve as a thought partner to highly visible TA projects. While building my career, I enjoy flying through different time zones, exploring vibrant cultures, and getting a taste of the locals' favorites dishes.
-* 🖥️  See my Tableau portfolio at [My Public Tableau Page](http://rb.gy/appacu)
-* ✉️  You can contact me at [www.linkedin.com/in/oliviau](mailto:www.linkedin.com/in/oliviau)
-* 💬  To see my resume, please reach out to me via LinkedIn 
+###### 🖥️  See my Tableau portfolio at [My Public Tableau Page](http://rb.gy/appacu)
+###### ✉️  You can contact me at [www.linkedin.com/in/oliviau](mailto:www.linkedin.com/in/oliviau)
+###### 💬  To see my resume, please reach out to me via LinkedIn 
 
 ### Education
 ###### Portland State Univeresity: Business Intelligence and Analytics Certification
 ###### Hong Kong City University: B.S. International Business
 ###### Oregon State University: B.S Finance, B.S Marketing
 
-##### SKILLS		###### People & Financial Analytics, Automation, Data Visualization & Validation 
+##### SKILLS		
+People & Financial Analytics, Automation, Data Visualization & Validation 
 
-##### SYSTEMS ###### Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
+##### SYSTEMS 
+Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
 
 ##### SUPPORT 	
 HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
