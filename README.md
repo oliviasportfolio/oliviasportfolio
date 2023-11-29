@@ -7,9 +7,9 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 * 💬  To see my resume, please chat me on LinkedIn 
 
 ### Education
-###### Portland State Univeresity: Business Intelligence and Analytics Certification
-###### Hong Kong City University: B.S. International Business
-###### Oregon State University: B.S Finance, B.S Marketing
+* Portland State Univeresity: Business Intelligence and Analytics Certification
+* Hong Kong City University: B.S. International Business
+* Oregon State University: B.S Finance, B.S Marketing
 
 ##### Skills		
 People & Financial Analytics, Automation, Data Visualization & Validation 
