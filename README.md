@@ -27,14 +27,14 @@ Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
 1.22 - 1.23 | Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		      
 1.20 - 6.23 | Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                                    
  
-##### LEATHERMAN 3.18 - 1.20	 
-Data Analyst | Finance & Cost Accounting		     
+##### LEATHERMAN	 
+3.18 - 1.20 | Data Analyst | Finance & Cost Accounting		     
 
-##### PHOTOCRAFT	9.16 - 3.18
-Cost Accountant I & II					     
+##### PHOTOCRAFT
+9.16 - 3.18 | Cost Accountant I & II					     
 
-##### FREELIN-WADE	3.15 - 9.16
-Accounting Specialist I & II 		                               
+##### FREELIN-WADE	
+3.15 - 9.16 | Accounting Specialist I & II 		                               
 
 ##### RECOGNITION 
 * Nike’s top ServiceNow Ticket Closer 2023
