@@ -22,15 +22,11 @@ Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
 
 ### Experience
 
-##### NIKE	 6.23 - Present
-Lead Data Analyst II | People Data Compliance & Reporting 		 
-      
-##### NIKE	 1.20 - 6.23
-Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                                    
-
-##### NIKE	 1.20 - 6.23
-Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		    
-
+##### NIKE	 
+6.23 - Present | Lead Data Analyst II | People Data Compliance & Reporting 		 
+1.22 - 1.23 | Sr. Data Analyst (Stretch) | Digital Analytics & UX Research  		      
+1.20 - 6.23 | Sr. Data Analyst | Talent Acquisition & Affirmative Action 	                                    
+ 
 ##### LEATHERMAN 3.18 - 1.20	 
 Data Analyst | Finance & Cost Accounting		     
 
