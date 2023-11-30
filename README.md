@@ -5,6 +5,7 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 * 🖥️  See my Tableau portfolio at [My Public Tableau Page](http://rb.gy/appacu)
 * ✉️  You can contact me at [www.linkedin.com/in/oliviau](mailto:www.linkedin.com/in/oliviau)
 * 💬  To see my resume, please chat me on LinkedIn 
+
 ##### COURSES	
 * Meta Database Engineer
 * Harvard CS50 Introduction to Computer Science
@@ -14,10 +15,7 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 People & Financial Analytics, Automation, Data Visualization & Validation 
 
 ##### Systems 
-Workday, Taleo, Avature, SAP, Microsoft AX, ServiceNow, Jira
-
-##### Support 
-HR Core Ops, TA, TA Enablement, Legal, Data Governance & Compliance, D&I, Finance, L&D
+Workday, Taleo, Avature, SAP, Microsoft AX, Sage MAS 500  ServiceNow, Jira
 
 ##### Reporting 
 Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
