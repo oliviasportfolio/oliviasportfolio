@@ -11,13 +11,13 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 * Harvard CS50 Introduction to Computer Science
 * CMA Financial Decision Making
   
-##### Skills		
+##### SKILLS		
 People & Financial Analytics, Automation, Data Visualization & Validation 
 
-##### Systems 
+##### SYSTEMS 
 Workday, Taleo, Avature, SAP, Microsoft AX, Sage MAS 500  ServiceNow, Jira
 
-##### Reporting 
+##### REPORTING 
 Tableau, SQL, Excel VBA, Snowflake, Alteryx, R
 
 ### Experience
