@@ -5,7 +5,11 @@ I orchestrate end-to-end analytics projects that inspire strategy and decision-m
 * 🖥️  See my Tableau portfolio at [My Public Tableau Page](http://rb.gy/appacu)
 * ✉️  You can contact me at [www.linkedin.com/in/oliviau](mailto:www.linkedin.com/in/oliviau)
 * 💬  To see my resume, please chat me on LinkedIn 
-
+##### COURSES	
+* Meta Database Engineer
+* Harvard CS50 Introduction to Computer Science
+* CMA Financial Decision Making
+  
 ##### Skills		
 People & Financial Analytics, Automation, Data Visualization & Validation 
 
@@ -48,11 +52,6 @@ Accounting Specialist I & II
 * Portland State Univeresity: Business Intelligence and Analytics Certification
 * Hong Kong City University: B.S. International Business
 * Oregon State University: B.S Finance, B.S Marketing
-  
-##### COURSES	
-* Meta Database Engineer
-* Harvard CS50 Introduction to Computer Science
-* CMA Financial Decision Making 
  
 ##### VOLUNTEER 	Dao & Doan Foundation – Treasurer 2020 – Present
 * Grow funds through high probability option trading and statistic-based hedging strategies
